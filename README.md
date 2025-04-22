@@ -24,6 +24,8 @@ My favourite dish is 🥟🥟🥟
 E-mail - aleksandra.mrozek@stud.leuphana.de]
 
 Thank you for visiting my GitHub profile 💕
+
+
 ![piesek](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZpeTV0M2hjMTFwZnRpZzhhOWMwcGN2YTB6dGx6d2ZuZXo1d242OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1d7F9xyq6j7C1ojbC5/giphy.gif)
 
 

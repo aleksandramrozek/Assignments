@@ -10,8 +10,8 @@ That is actually a joke....
 ### I am currently working on 🎆:
 - Learning and understanding how **GitHub works**
 - Getting familiar with coding in **PyCharm**
-- Using Markdown in creative ways
-- Cloning repositories and understanding Git workflows
+- Using **Markdown** in creative ways
+- Cloning repositories and understanding **Git workflows**
 
 ---
 
